@@ -5,8 +5,8 @@
 wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
 sudo apt-get update -y
-sudo apt-get install dotnet-sdk-6.0
-sudo apt-get install dotnet-ef
+sudo apt-get install dotnet-sdk-6.0 -y
+sudo apt-get install dotnet-ef -y
 dotnet --list-sdks
 
 #Install SQL Server 2022 (v16.x)
