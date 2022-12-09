@@ -1,0 +1,20 @@
+/* Copyright (c) Microsoft Corporation. All rights reserved.
+   Licensed under the MIT License. */
+
+section {
+  padding: 10px;
+}
+
+form {
+  width: 100%;
+}
+
+.qrcode {
+  margin: 10px 0 0;
+  padding-bottom: 0;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}

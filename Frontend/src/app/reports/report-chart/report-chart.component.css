@@ -1,0 +1,12 @@
+/* Copyright (c) Microsoft Corporation. All rights reserved.
+   Licensed under the MIT License. */
+
+.report-chart {
+    position: absolute;
+    font-size: 0.95em;
+    left: 10%;
+    right: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    overflow: hidden;
+}

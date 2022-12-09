@@ -1,0 +1,14 @@
+/* Copyright (c) Microsoft Corporation. All rights reserved.
+   Licensed under the MIT License. */
+
+section {
+  padding: 10px;
+}
+
+form {
+  width: 100%;
+}
+
+.truck-container {
+  margin: 0 0 20px 0;
+}
